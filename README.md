@@ -1,79 +1,72 @@
 ### Hi there! 👋 I'm Oleksandr Kulbit
 
-I'm a final-year Computer Science student specializing in **Backend Development (Java/Spring)**.
+**Final-year Computer Science Engineer** passionate about building reliable backend systems and functional full-stack applications.
 
-I'm passionate about building scalable, high-performance RESTful APIs and gaining practical experience. I've previously worked as a Full-Stack intern at ProIntegra, developing backend scripts in Python and contributing to a frontend in Angular.
+I specialize in **Java ecosystem** (Spring Boot, Hibernate) with a strong focus on data consistency, concurrency, and high-load architecture. Simultaneously, I enjoy building tangible products using **Angular** and **Android (Kotlin)**.
 
-- 🎓 I'm currently in my 7th semester at **Częstochowa University of Technology, Poland**.
-- 💻 I'm actively seeking a **Backend Intern** or **Junior Java Developer** position.
-- 🌍 Open to internship opportunities across Europe or remote.
-
----
-
-### 🛠️ My Tech Stack
-
-<p align="left">
-  <strong>Backend:</strong><br>
-  <img src="https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring WebFlux">
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core">
-</p>
-
-<p align="left">
-  <strong>Frontend:</strong><br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-</p>
-
-<p align="left">
-  <strong>Databases:</strong><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
-
-<p align="left">
-  <strong>DevOps & Tools:</strong><br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven">
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
-</p>
+- 🎓 Finishing my B.Sc. at **Częstochowa University of Technology**.
+- 🔭 Currently diving deep into **Distributed Systems** and **Pessimistic Locking strategies**.
+- 💼 Open to **Java Backend** or **Full Stack** opportunities (Remote/Relocate).
 
 ---
 
-### 🌱 I'm currently learning
+### 🚀 Featured Projects
 
-I'm actively developing my mobile development skills:
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
-  <img src="https://img.shields.io/badge/MVVM-Orange?style=for-the-badge" alt="MVVM">
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 💸 **[Money Transfer API](https://github.com/snjk333/money-transfer)** | **Core Banking Module.** Thread-safe API handling concurrent transactions with Deadlock Mitigation and ACID guarantees. | `Java 17` `Spring Boot 3` `PostgreSQL` `Docker` `TDD` |
+| 🎟️ **[Event Ticketing](https://github.com/snjk333/ТВОЯ_ССЫЛКА)** | **High-Load Microservices.** Distributed platform for ticket sales using reactive programming. | `Spring WebFlux` `Microservices` `PayU` `JWT` `R2DBC` |
+| 📸 **[MoodCam App](https://github.com/snjk333/ТВОЯ_ССЫЛКА)** | **AI Android Product.** Real-time emotion recognition app with cloud synchronization. | `Kotlin` `Jetpack Compose` `Firebase` `ML Kit` |
+
+---
+
+### 🛠️ Technical Arsenal
+
+**Backend & Core**
+<p>
+  <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java 17">
+  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring WebFlux">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" alt="Hibernate">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=flyway&logoColor=white" alt="Flyway">
+</p>
+
+**Frontend & Mobile**
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
+</p>
+
+**DevOps & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira">
 </p>
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 
-![Oleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=snjk333&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snjk333&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=snjk333&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snjk333&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" alt="Top Langs" />
+</p>
 
 ---
 
-### 🤝 Connect with me
+### 🤝 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/oleksandr-kulbit/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:kulbitsanya0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
