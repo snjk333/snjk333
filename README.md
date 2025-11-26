@@ -14,7 +14,7 @@ I specialize in **Java ecosystem** (Spring Boot, Hibernate) with a strong focus 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 💸 **[Money Transfer API]([https://github.com/snjk333/money-transfer](https://github.com/snjk333/MoneyTransfer))** | **Core Banking Module.** Thread-safe API handling concurrent transactions with Deadlock Mitigation and ACID guarantees. | `Java 17` `Spring Boot 3` `PostgreSQL` `Docker` `TDD` |
+| 💸 **[Money Transfer API]([https://github.com/snjk333/MoneyTransfer])** | **Core Banking Module.** Thread-safe API handling concurrent transactions with Deadlock Mitigation and ACID guarantees. | `Java 17` `Spring Boot 3` `PostgreSQL` `Docker` `TDD` |
 | 🎟️ **[Event Ticketing System](https://github.com/snjk333/Monolith)** | **Distributed Architecture.** The core orchestration service integrating with a reactive **WebFlux** microservice for high-load registrations. | `Spring Boot` `Microservices` `PayU` `JWT` `R2DBC` |
 | 📸 **[MoodCam App](https://github.com/PZIO2025-2026/moodcam)** | **AI Android Product.** Real-time emotion recognition app with cloud synchronization via Firebase. | `Kotlin` `Jetpack Compose` `Firebase` `ML Kit` |
 
