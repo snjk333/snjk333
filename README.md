@@ -5,7 +5,6 @@
 I specialize in **Java ecosystem** (Spring Boot, Hibernate) with a strong focus on data consistency, concurrency, and high-load architecture. Simultaneously, I enjoy building tangible products using **Angular** and **Android (Kotlin)**.
 
 - 🎓 Finishing my B.Sc. at **Częstochowa University of Technology**.
-- 🔭 Currently diving deep into **Distributed Systems** and **Pessimistic Locking strategies**.
 - 💼 Open to **Java Backend** or **Full Stack** opportunities (Remote/Relocate).
 
 ---
