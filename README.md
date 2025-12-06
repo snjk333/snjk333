@@ -50,15 +50,6 @@ I specialize in **Java ecosystem** (Spring Boot, Hibernate) with a strong focus 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=snjk333&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snjk333&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" alt="Top Langs" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 <p align="left">
