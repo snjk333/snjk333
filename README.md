@@ -13,7 +13,7 @@ I specialize in **Java ecosystem** (Spring Boot, Hibernate) with a strong focus 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🎟️ **[Event Ticketing System](https://github.com/snjk333/Monolith)** | **Distributed Architecture.** The core orchestration service integrating with a reactive **WebFlux** microservice for high-load registrations. | `Spring Boot` `Microservices` `PayU` `JWT` `R2DBC` |
+| 🎫 **[TicRes Platform](https://github.com/snjk333/TicRes)** | **Microservices Monorepo.** A unified distributed system consolidating Reactive Auth, Core Booking, and Event Inventory services behind a **Spring Cloud Gateway**. | `Spring Cloud` `WebFlux` `Microservices` `Multi-Module Maven` |
 | 💸 **[Money Transfer API](https://github.com/snjk333/MoneyTransfer)** | **Core Banking Module.** Thread-safe API handling concurrent transactions with Deadlock Mitigation and ACID guarantees. | `Java 17` `Spring Boot 3` `PostgreSQL` `Docker` `TDD` |
 | 📸 **[MoodCam App](https://github.com/PZIO2025-2026/moodcam)** | **AI Android Product.** Real-time emotion recognition app with cloud synchronization via Firebase. | `Kotlin` `Jetpack Compose` `Firebase` `ML Kit` |
 
