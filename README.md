@@ -13,7 +13,7 @@ Specialized in the **Java ecosystem (Spring Boot, Hibernate)** with focus on dat
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🎫 **[TicRes Platform](https://github.com/snjk333/TicRes)** | **Microservices Monorepo.** A unified distributed system consolidating Reactive Auth, Core Booking, and Event Inventory services behind a **Spring Cloud Gateway**. | `Spring Cloud` `WebFlux` `Microservices` `Multi-Module Maven` |
+| 🎫 **[TicRes Platform](https://github.com/snjk333/TicRes)** | **Full-stack ticketing platform** with PayU payment gateway, Ticketmaster API integration, JWT authentication, and Kafka messaging. Microservices monorepo combining reactive (WebFlux/R2DBC) and MVC (JPA) services orchestrated by Spring Cloud Gateway. | `Spring Boot` `PayU` `Apache Kafka`  `Microservices` `WebFlux + R2DBC` |
 | 📊 **[Distributed Log Service](https://github.com/snjk333/DistributedLogService)** | **Event-Driven Logging System.** Centralized log aggregation platform with Kafka-based ingestion, dual storage (PostgreSQL + Elasticsearch), and Redis-cached queries. | `Java 21` `Spring Boot 3` `Kafka` `Elasticsearch` `Docker` |
 | 💸 **[Money Transfer API](https://github.com/snjk333/MoneyTransfer)** | **Core Banking Module.** Thread-safe API handling concurrent transactions with Deadlock Mitigation and ACID guarantees. | `Java 17` `Spring Boot 3` `PostgreSQL` `Docker` `TDD` |
 | 📸 **[MoodCam App](https://github.com/PZIO2025-2026/moodcam)** | **AI Android Product.** Real-time emotion recognition app with cloud synchronization via Firebase. | `Kotlin` `Jetpack Compose` `Firebase` `ML Kit` |
